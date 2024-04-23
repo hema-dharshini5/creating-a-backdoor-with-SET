@@ -26,10 +26,6 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 ![ETH EP 7 1](https://github.com/hema-dharshini5/creating-a-backdoor-with-SET/assets/147117728/243e24f4-d48a-49a3-a58c-a702a5011a75)
 
 
-![ETH EP 7 2](https://github.com/hema-dharshini5/creating-a-backdoor-with-SET/assets/147117728/ebbf8943-41aa-40f6-9e8c-5efbb416b2bf)
-
-
-![ETH EP 7 2](https://github.com/hema-dharshini5/creating-a-backdoor-with-SET/assets/147117728/550764b8-75ca-4875-8906-709c34b96c2f)
 
 ![ETH EP 7 2](https://github.com/hema-dharshini5/creating-a-backdoor-with-SET/assets/147117728/98eb09c9-c9d8-4e23-9eac-4eb333ef130d)
 
